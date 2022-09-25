@@ -1,1 +1,1 @@
-# Library-website-DataBase System in ZJU midterm project
+# Library-website-DataBase System Project in ZJU
